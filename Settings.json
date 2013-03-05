@@ -1,0 +1,7 @@
+{
+    "train_data_path": "$DataPath/DSL-SKLearnTutorial/Data/train.csv",
+    "train_labels_path": "$DataPath/DSL-SKLearnTutorial/Data/trainLabels.csv",
+    "test_data_path": "$DataPath/DSL-SKLearnTutorial/Data/test.csv",
+    "model_path": "$DataPath/DSL-SKLearnTutorial/Models/random_forest.pickle",
+    "prediction_path": "$DataPath/DSL-SKLearnTutorial/Submissions/random_forest_benchmark.csv"
+}
